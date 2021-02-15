@@ -1,0 +1,18 @@
+*django instalation*
+
+pip install virtualenvwrapper-win 
+mkvirtualenv (give your env name)
+pip install django                     /*pip uninstall django */
+ 
+workon nath                            /*rmvirtualenv nath*/
+
+django-admin startproject (project-name)
+
+----usage-----
+
+cd (project-name)
+ python manage.py runserver
+ 
+ 
+ 
+ 
